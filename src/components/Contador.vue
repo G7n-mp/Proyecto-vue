@@ -2,7 +2,7 @@
 <h1>Hola</h1>
 <p>{{ contador }}</p>
 <button @click="incrementar">incrementar</button>
-<button @click="noincrementar">noincrementar</button>
+<button @click="noincrementar">decrementar</button>
 </template>
 
 <script setup>
