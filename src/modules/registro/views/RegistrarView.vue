@@ -15,7 +15,7 @@
       </div>
 
       <div class="form">
-        <button type="submit">Registrar</button>
+        <button type="submit">Registrar.</button>
       </div>
     </Form>
   </div>
