@@ -3,7 +3,7 @@
   <input type="text" v-model="valor">
   {{ valorCalculado }}
 <ResultadoSection v-if="mostrarElemento" :resultado="valorCalculado"></ResultadoSection>
-<div v-else-if="isNaN(valor)">Debe ser un numero para poder calcular</div>
+<div v-else-if="isNaN(valor)">Dbe ser un numero para poder calcular</div>
 <div v-else>Aqui no se muestra nada</div>
 </template>
 <script setup>
